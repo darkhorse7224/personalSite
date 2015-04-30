@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="ftp_dev" uploadOnCheckin="e42ceeab-1a75-46dc-a0c1-53b538384a5d">
-    <option name="myUploadOnCheckinName" value="ftp_dev" />
+  <component name="PublishConfigData" serverName="TempRectangle">
+    <serverData>
+      <paths name="TempRectangle">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="MySite" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
   </component>
 </project>
